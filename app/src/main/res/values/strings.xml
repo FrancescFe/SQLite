@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="et_name">name</string>
+    <string name="et_email">email</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_consult">Consult</string>
+    <string name="btn_update_delete">Update / Delete</string>
+    <string name="btn_delete">Delete</string>
+</resources>
